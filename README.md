@@ -19,4 +19,4 @@ Hands-on labs focused on extracting password hashes and recovering credentials f
 * Protected files store passwords as cryptographic hashes rather than plain text
 * Weak or short passwords can be cracked rapidly across both local utilities and browser-based tools, reinforcing the need for strong, complex passwords.
 
-  # Thanks to Waqqas Karim and NETWORKWALKS for this opportunity. Looking forward to what comes next.
+Thanks to Waqqas Karim and NETWORKWALKS for this opportunity. Looking forward to what comes next.
